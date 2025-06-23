@@ -1,6 +1,6 @@
 # Frontend Mentor - Blog Preview Card Solution
 
-![Design preview for the Blog preview card coding challenge](./preview.jpg)
+![Design preview for the Blog preview card coding challenge](./design/desktop-design.png)
 
 ## ✨ Overview
 
@@ -30,14 +30,14 @@ This is my solution to the [Blog preview card challenge on Frontend Mentor](http
 <details>
 <summary>📱 Mobile Preview</summary>
 
-_Add mobile screenshot here_
+![Design](./design/mobile-design.png)
 
 </details>
 
 <details>
 <summary>💻 Desktop Preview</summary>
 
-_Add desktop screenshot here_
+![Design](./design/laptop-design.png)
 
 </details>
 
@@ -59,11 +59,11 @@ To run this project locally:
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/blog-preview-card.git
+   git clone https://github.com/harshikab2112/blog-preview-card.git
    Open the index.html file in your browser.
    ```
 
-🚀 Features
+## 🚀 Features
 ✅ Fully responsive layout
 
 ✅ Fixed card width (does not shrink on small screens)
@@ -74,23 +74,19 @@ To run this project locally:
 
 ✅ Google Fonts integration
 
-🧠 Future Improvements
-Add animations on load or scroll
+## 🧠 Future Improvements
+- Add animations on load or scroll
+- Use SCSS or CSS Modules for better scalability
+- Build additional components (e.g., tags, like button, etc.)
 
-Use SCSS or CSS Modules for better scalability
-
-Build additional components (e.g., tags, like button, etc.)
-
-🙋‍♀️ Author
+## 🙋‍♀️ Author
 Harshika Bansal
+[LinkedIn](https://www.linkedin.com/in/harshika-bansal/)
 
-GitHub
+## 🎉 Acknowledgments
+- Challenge by Frontend Mentor
+- Fonts by Google Fonts - Figtree
 
-LinkedIn
-
-🎉 Acknowledgments
-Challenge by Frontend Mentor
-
-Fonts by Google Fonts - Figtree
+---
 
 Thanks for reading! Happy coding 🚀
