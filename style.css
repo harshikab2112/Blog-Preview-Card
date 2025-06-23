@@ -112,7 +112,7 @@ body {
   border-radius: 50%;
 }
 
-.author h3 {
+.author p {
   font-size: clamp(0.75rem, 1.5vw, 0.8rem);
   font-weight: bolder;
   color: var(--colorTitles);
