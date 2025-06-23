@@ -37,7 +37,7 @@ This is my solution to the [Blog preview card challenge on Frontend Mentor](http
 <details>
 <summary>💻 Desktop Preview</summary>
 
-![Design](./design/laptop-design.png)
+![Design](./design/desktop-design.png)
 
 </details>
 
