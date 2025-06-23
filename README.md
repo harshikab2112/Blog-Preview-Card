@@ -10,8 +10,8 @@ This is my solution to the [Blog preview card challenge on Frontend Mentor](http
 
 ## 🔗 Live Site
 
-👉 [View Live Site](https://your-deployment-url-here.com)  
-👉 [View on Frontend Mentor](https://www.frontendmentor.io/solutions/your-solution-url-here)
+👉 [View Live Site](https://blog-preview-card-hb.vercel.app/)  
+👉 [View on Frontend Mentor](https://www.frontendmentor.io/solutions/blog-preview-card-JCeq8J4yz0)
 
 ---
 
