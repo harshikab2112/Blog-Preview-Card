@@ -59,7 +59,7 @@ body {
   margin-bottom: 1.25rem;
 }
 
-.card-content span {
+.card-content .tag {
   align-self: flex-start;
   background-color: var(--colorBackground);
   padding: 8px 12px;
@@ -92,7 +92,7 @@ body {
   color: var(--colorBackground);
 }
 
-.card-content p {
+.card-content .content {
   color: var(--colorParagraph);
   font-size: clamp(0.9rem, 2vw, 1rem);
   margin: 10px 0;
